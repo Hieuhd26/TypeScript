@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES5",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+     "noEmitOnError": true,                            /* Disable emitting files if any type checking errors are reported. */
+    }
+}
